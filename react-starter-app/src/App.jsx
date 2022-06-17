@@ -12,7 +12,7 @@ import {
   init,
  } from "@thoughtspot/visual-embed-sdk";
  
- const TSURL = "https://try.thoughtspot.cloud";
+ const TSURL = "https://se-thoughtspot-cloud.thoughtspot.cloud/";
 
 
 function App() {
